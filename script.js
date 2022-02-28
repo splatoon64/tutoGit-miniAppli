@@ -10,7 +10,7 @@ $(document).ready(function () {
 });
 
 
-        // function remise en "service" des boutons supprimer et modifier pour la dernière ligne ajoutée
+    // function remise en "service" des boutons supprimer et modifier pour la dernière ligne ajoutée
 
 function bouton() {
     $('button').click(function () {
@@ -188,6 +188,7 @@ function modifUserBDD() {
             $('#myForm input').val('');
             $($ligne).replaceWith(form);
             bouton();
+                // remise en "service" des boutons supprimer et modifier pour la dernière ligne ajoutée
 
             $('#modif').fadeOut(1000);
         },

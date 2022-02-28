@@ -10,7 +10,7 @@
     <script src="script.js" defer></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
-    <title>Apprentissage bootstrap/AJAX</title>
+    <title>Apprentissage bootstrap/AJAX/GIT</title>
 </head>
 <body>
     <div class="container py-3">
@@ -53,7 +53,7 @@
                     </table>
             </main>
         <footer class="border-top py-1 mt-5 bg-light text-center">
-            <p class="text-center"><i class="far fa-copyright" aria-hidden="true"> Copyright Application gestion utilisateur dev64splatoon 2022</i></p>
+            <p class="text-center"><i class="far fa-copyright" aria-hidden="true"> Copyright Application gestion utilisateur dev64 Ockler 2022</i></p>
             <a class="btn btn-transparent btn-outline-dark mx-auto" href="index.php" type="submit" name="sortir">Sortir</a>
         </footer>
     </div>

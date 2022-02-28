@@ -1,4 +1,4 @@
-//Utilisation JQUERY
+//Utilisation JQUERY/Ajax/Git
 
 $(document).ready(function () {
     //affichage du formulaire
